@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: 어제보다 더 성장한 나를 기록
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Front End Developer
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
